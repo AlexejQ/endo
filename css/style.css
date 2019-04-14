@@ -255,7 +255,7 @@
   top: 68px;
 }
 .wrapper main .block-1 .container .block-items a:hover {
-  background-color: #113b5fe3;
+  background-color: rgba(17, 59, 95, 0.9);
 }
 .wrapper main .block-1 .container .block-items a:hover > h3 {
   color: white;
@@ -396,7 +396,7 @@
   left: -66px;
 }
 .wrapper main .block-3 .owl-prev:hover {
-  background: #0000000a;
+  background: rgba(0, 0, 0, 0.04);
   background-image: url(../images/back.png);
 }
 .wrapper main .block-3 .owl-next {
@@ -404,7 +404,7 @@
   right: -66px;
 }
 .wrapper main .block-3 .owl-next:hover {
-  background: #0000000a;
+  background: rgba(0, 0, 0, 0.04);
   background-image: url(../images/back_rew.png);
 }
 .wrapper main .block-3 .button-fix {
@@ -453,7 +453,7 @@
 }
 .wrapper main .block-4 #slaider-container-three .items .items-container a .caption-video .title {
   height: 33px;
-  background-color: #113b5fe8;
+  background-color: rgba(17, 59, 95, 0.9);
   color: #f8f8f8;
   font-family: "Proxima Nova Bold";
   font-size: 16px;
@@ -466,10 +466,10 @@
   bottom: 0;
 }
 .wrapper main .block-4 #slaider-container-three .items .items-container a:hover > .caption-video {
-  background-color: #113b5fe8;
+  background-color: rgba(17, 59, 95, 0.9);
 }
 .wrapper main .block-4 #slaider-container-three .items .items-container a:hover > .caption-video .title {
-  background-color: #ffffff00;
+  background-color: rgba(255, 255, 255, 0);
 }
 .wrapper main .block-4 #slaider-container-three .items .items-container a:hover > .caption-video img {
   opacity: 1;
@@ -490,7 +490,7 @@
   left: -66px;
 }
 .wrapper main .block-4 .owl-prev:hover {
-  background: #0000000a;
+  background: rgba(0, 0, 0, 0.04);
   background-image: url(../images/back.png);
 }
 .wrapper main .block-4 .owl-next {
@@ -498,7 +498,7 @@
   right: -66px;
 }
 .wrapper main .block-4 .owl-next:hover {
-  background: #0000000a;
+  background: rgba(0, 0, 0, 0.04);
   background-image: url(../images/back_rew.png);
 }
 .wrapper main .block-4 .button-fix {
@@ -560,7 +560,7 @@
   color: #e2e2e2;
 }
 .wrapper footer .container .foo-bottom {
-  border-top: 1px solid #3eb5f194;
+  border-top: 1px solid rgba(62, 181, 241, 0.6);
   display: flex;
   justify-content: space-between;
   padding-top: 18px;
@@ -1072,7 +1072,7 @@
     box-shadow: 0px 0px 9px 0px rgba(195, 193, 193, 0.75);
   }
   .wrapper main .block-1 .container .block-items a {
-    background-color: #ffffffba;
+    background-color: rgba(255, 255, 255, 0.7);
   }
   .wrapper main .block-1 .container .block-items a p {
     opacity: 1;
@@ -1080,7 +1080,7 @@
     font-size: 15px;
   }
   .wrapper main .block-1 .container .block-items a:hover {
-    background-color: #fffffff5;
+    background-color: rgba(255, 255, 255, 0.9);
   }
   .wrapper main .block-1 .container .block-items a:hover h3 {
     color: #113b5f;
@@ -1093,7 +1093,7 @@
     color: black;
   }
   .wrapper main .block-2 #slaider-container .items .items-container {
-    background-color: #ffffffba;
+    background-color: rgba(255, 255, 255, 0.7);
     margin: 0;
   }
   .wrapper main .block-2 #slaider-container .items .items-container .text {
